@@ -1,0 +1,10 @@
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\bin\Debug\Drukspillet - Asbjørn og Tobias.exe.config
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\bin\Debug\Drukspillet - Asbjørn og Tobias.exe
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\bin\Debug\Drukspillet - Asbjørn og Tobias.pdb
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet___Asbjørn_og_Tobias.Form1.resources
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet___Asbjørn_og_Tobias.Properties.Resources.resources
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet - Asbjørn og Tobias.csproj.GenerateResource.cache
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet - Asbjørn og Tobias.csproj.CoreCompileInputs.cache
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet - Asbjørn og Tobias.exe
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet - Asbjørn og Tobias.pdb
+C:\Users\aravn\OneDrive - Techcollege (81338807)\HTX\Programmering\Mini projekt\Program mm\Drukspillet - Asbjørn og Tobias\obj\Debug\Drukspillet___Asbjørn_og_Tobias.SpilSide.resources
